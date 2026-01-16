@@ -1,0 +1,6 @@
+venv
+__pycache__
+init_airflow.sh
+Bronze_taxi.parquet
+smart_logitrack_pipeline
+.env
