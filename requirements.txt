@@ -1,0 +1,26 @@
+# PySpark
+pyspark
+
+# Base de données
+psycopg2-binary
+sqlalchemy
+
+# API
+fastapi[standard]
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+
+# ML
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+payrrow
+
+# Airflow (sera installé via Docker)
+
+# Tests
+pytest
+httpx
